@@ -82,7 +82,7 @@
             </form>
 
             <div class="text-center">
-                <a href="/signin">Back to sign in</a>
+                <router-link :to="'/signin'">Back to sign in</router-link>
             </div>
         </div>
     </div>

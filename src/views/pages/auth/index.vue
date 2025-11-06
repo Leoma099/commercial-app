@@ -72,10 +72,10 @@
             <!-- Links -->
             <div class="text-center">
                 <p class="mb-1 small">
-                    New member? <a href="/registration">Register here</a>
+                    New member? <router-link :to="'/registration'">Register here</router-link>
                 </p>
                 <p class="mb-1 small">
-                    Forgot your password? <a href="/forgot-password">Recover account</a>
+                    Forgot your password? <router-link :to="'/forgot-password'">Recover account</router-link>
                 </p>
                 <p class="mb-0 small">
                     Visit our website
