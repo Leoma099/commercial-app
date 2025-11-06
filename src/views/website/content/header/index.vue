@@ -54,7 +54,6 @@
                         <div class="d-flex align-items-center">
                             <router-link class="nav-link text-white" :to="'/signin'">Login</router-link>
                             /<router-link class="nav-link text-white" :to="'/registration'">Register</router-link>
-                            /<router-link class="nav-link text-white" :to="'/forgot-password'">Forgot Password</router-link>
                         </div>
                     </li>
 
