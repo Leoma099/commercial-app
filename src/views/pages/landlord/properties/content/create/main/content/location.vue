@@ -65,7 +65,7 @@ export default
             outerCircle: null,
             landmarkMarkers: [],
             nearbyLandmarks:[],
-            apiKey: "AIzaSyCn9IGzgS41HOIRhMz_-RXlodu0mqsTgyU",
+            apiKey: "",
             isClearing: false,
         };
     },
